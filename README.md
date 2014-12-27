@@ -3,8 +3,8 @@ Test-Repo
 
 Testing repo for SVN sync
 
-Last Merged: %GITHUB_MERGE_DATE% / %GITHUB_MERGE_DATETIME%
-Merged Github SVN Rev: %GITHUB_MERGE_SVN_REV%
+Last Merged: 2014-12-27 / 2014-12-27 03:24:02
+Merged Github SVN Rev: 32
 
 One.
 Two.
@@ -30,3 +30,4 @@ Twenty One.
 Twenty Two.
 Twenty Three.
 Twenty Four.
+Twenty Five.
