@@ -1,33 +1,6 @@
-Test-Repo
+Test Plugin 3
 =========
 
-Testing repo for SVN sync
+Testing repo for feature plugin GH => plugins.svn.wordpress.org syncing.
 
-Last Merged: 2014-12-27 / 2014-12-27 04:21:53
-Merged Github SVN Rev: 33
-
-One.
-Two.
-Three.
-Four.
-Five.
-Six.
-Seven.
-Eight.
-Nine.
-Ten.
-Eleven.
-Twelve.
-Thirteen.
-Fourteen.
-Fifteen.
-Sixteen.
-Seventeen.
-Eightteen.
-Nineteen.
-Twenty.
-Twenty One.
-Twenty Two.
-Twenty Three.
-Twenty Four.
-Twenty Five.
+- One.
