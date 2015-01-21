@@ -7,3 +7,4 @@ Testing repo for feature plugin GH => plugins.svn.wordpress.org syncing.
 - Two.
 - Three.
 - Four.
+- Five.
