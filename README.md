@@ -1,6 +1,6 @@
 Test Plugin 3
 ===============
-* Contributors: (this should be a list of wordpress.org userid's)
+* Contributors: dd32
 * Donate link: http://example.com/
 * Tags: test-plugins
 * Requires at least: 4.3
