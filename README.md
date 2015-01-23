@@ -1,6 +1,6 @@
 Test Plugin 3
 ===============
-* Contributors: dd32
+* Contributors: dd32, githubsync
 * Donate link: http://example.com/
 * Tags: test-plugins
 * Requires at least: 4.3
