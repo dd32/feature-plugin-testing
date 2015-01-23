@@ -2,7 +2,7 @@ Test Plugin 3
 ===============
 * Contributors: (this should be a list of wordpress.org userid's)
 * Donate link: http://example.com/
-* Tags: comments, spam
+* Tags: test-plugins
 * Requires at least: 4.3
 * Tested up to: 3.4
 * License: GPLv2 or later
