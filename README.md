@@ -1,12 +1,12 @@
 Test Plugin 3
 ===============
 * Contributors: dd32, githubsync
-* Donate link: http://example.com/
 * Tags: test-plugins
 * Requires at least: 4.3
 * Tested up to: 4.4
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Donate link: http://example.com/
 
 Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
 
