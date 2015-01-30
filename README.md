@@ -12,6 +12,8 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 ## Description #
 
+For best README.md support, the fields under the plugin title, Contributors.. Tags.. etc, should be in a similar format to this readme example. This means that there should be no characters after the : other than the value, no formatting, just a value and new line.
+
 This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
 
 For backwards compatibility, if this section is missing, the full length of the short description will be used, and
