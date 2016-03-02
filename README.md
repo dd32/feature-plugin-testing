@@ -1,6 +1,6 @@
 Test Plugin 3
 ===============
-* Contributors: dd32, githubsync
+* Contributors: dd32, dd128
 * Tags: test-plugins
 * Requires at least: 4.3
 * Tested up to: 4.4
